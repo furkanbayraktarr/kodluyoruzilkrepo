@@ -8,9 +8,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 git clone https://github.com/furkanbayraktarr/kodluyoruzilkrepo.git
 ```    
 ## Usage
-```bash
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-```
+
 Linux için:
 ```bash
    cd kodluyoruzilkrepo
