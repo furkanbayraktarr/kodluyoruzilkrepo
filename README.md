@@ -4,17 +4,21 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ## Installation
 Depoyu bilgisayarınıza klonlayın:
+
     ```bash
     git clone https://github.com/kullaniciAdi/depoAdi.git
     ```
 ## Usage
 Depoyu bilgisayarınıza klonlayın:
+
     ```bash
     cd kodluyoruzilkrepo
 code .
     ```    
 ## Contributing 
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
+
 MIT
 
